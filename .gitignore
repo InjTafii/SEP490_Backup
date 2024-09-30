@@ -1,0 +1,11 @@
+# Bỏ qua thư mục build
+bin/
+obj/
+
+# Bỏ qua file cấu hình cá nhân
+*.user
+*.suo
+*.vs/
+
+# Bỏ qua thư mục Docker
+Docker/
