@@ -132,3 +132,4 @@ C:\Users\ADMIN\OneDrive\Desktop\SEP490\EssayTaskProvidingService\API\bin\Debug\n
 C:\Users\ADMIN\OneDrive\Desktop\SEP490\EssayTaskProvidingService\API\bin\Debug\net8.0\Services.dll
 C:\Users\ADMIN\OneDrive\Desktop\SEP490\EssayTaskProvidingService\API\bin\Debug\net8.0\Repositories.pdb
 C:\Users\ADMIN\OneDrive\Desktop\SEP490\EssayTaskProvidingService\API\bin\Debug\net8.0\Services.pdb
+C:\Users\ADMIN\OneDrive\Desktop\SEP490\EssayTaskProvidingService\API\obj\Debug\net8.0\API.sourcelink.json
